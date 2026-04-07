@@ -1,5 +1,9 @@
 # LAB 4: TravelBuddy - Trợ lý Du lịch Thông minh với LangGraph
 
+- **Student Name**: Mai Đức Thuận
+- **Student ID**: 2A202600125
+- **Date**: 2026-04-07
+
 ## Mô tả
 
 Bài lab xây dựng một **AI Agent du lịch** sử dụng LangGraph, giúp người dùng lên kế hoạch chuyến đi bằng cách tự động tra cứu chuyến bay, kiểm tra ngân sách, và tìm kiếm khách sạn phù hợp.
