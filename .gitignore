@@ -1,0 +1,11 @@
+__pycache__/
+.env
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+#test
+test_tool.py
+tests/
