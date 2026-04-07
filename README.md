@@ -121,21 +121,21 @@ START → agent → [có tool call?] → tools → agent → ... → END
 
 ### Test case 1:
 
-![alt text](./image-1.png)
+![alt text](pics/image-1.png)
 
 ### Test case 2:
 
-![alt text](./image-2.png)
+![alt text](pics/image-2.png)
 
 ### Test case 3:
 
-![alt text](./image-3.png)
-![alt text](./image-4.png)
+![alt text](pics/image-3.png)
+![alt text](pics/image-4.png)
 
 ### Test case 4:
 
-![alt text](./image-5.png)
+![alt text](pics/image-5.png)
 
 ### Test case 5:
 
-![alt text](./image-6.png)
+![alt text](pics/image-6.png)
